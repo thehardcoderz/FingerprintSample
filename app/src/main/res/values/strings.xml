@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FingerprintSample</string>
+    <string name="label_scan_finger">Scan Finger</string>
 </resources>
